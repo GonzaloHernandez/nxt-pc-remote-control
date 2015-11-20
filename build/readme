@@ -1,0 +1,11 @@
+execute the next commands inside this folder
+
+To create QtProject
+$ qmake ../
+
+To compile application
+$ make
+
+To run application
+$ ./nxt-pc-remote-control
+
